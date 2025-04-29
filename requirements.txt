@@ -1,0 +1,8 @@
+Flask==2.2.5
+Werkzeug==2.2.2
+Flask-Cors==3.0.10
+opencv-python-headless==4.7.0.72
+mediapipe==0.10.14
+numpy==1.23.5
+gunicorn
+websocket-server
